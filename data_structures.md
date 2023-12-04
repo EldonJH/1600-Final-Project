@@ -12,5 +12,6 @@ Tuples are similar to lists but are immutable, meaning their elements cannot be 
 
 Dictionaries are unordered collections of key-value pairs used to store data in a structured manner.
 
-[Next: Conclusion](conclusion.md)
-[Back: Chapter 3: Functions](functions.md)
+1. [Next: Conclusion](conclusion.md)
+2. [Back: Chapter 3: Functions](functions.md)
+3. [Back to Table of Contents](README.md)
