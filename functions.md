@@ -12,5 +12,6 @@ In Python, functions are defined using the `def` keyword followed by the functio
 
 Functions can take parameters and return values, allowing you to pass data into them and receive results.
 
-[Next: Chapter 4: Data Structures](data_structures.md)
-[Back: Chapter 2: Control Structures](control_structures.md)
+1. [Next: Chapter 4: Data Structures](data_structures.md)
+2. [Back: Chapter 2: Control Structures](control_structures.md)
+3. [Back to Table of Contents](README.md)
