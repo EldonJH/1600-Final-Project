@@ -10,3 +10,4 @@ Python provides `for` and `while` loops for iterating over sequences and perform
 
 [Next: Chapter 3: Functions](functions.md)
 [Back: Chapter 1: Python Basics](python_basics.md)
+[Back to Table of Contents](README.md)
