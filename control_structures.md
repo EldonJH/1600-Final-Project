@@ -8,6 +8,6 @@ If statements are used for decision-making in Python. They allow you to execute 
 
 Python provides `for` and `while` loops for iterating over sequences and performing repetitive tasks.
 
-[Next: Chapter 3: Functions](functions.md)
-[Back: Chapter 1: Python Basics](python_basics.md)
-[Back to Table of Contents](README.md)
+1. [Next: Chapter 3: Functions](functions.md)
+2. [Back: Chapter 1: Python Basics](python_basics.md)
+3. [Back to Table of Contents](README.md)
