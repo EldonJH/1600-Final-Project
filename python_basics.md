@@ -10,5 +10,6 @@ Variables in Python are containers used to store values. They can be of differen
 
 Python supports various data types, including integers, floats, strings, lists, tuples, and dictionaries.
 
-[Next: Chapter 2: Control Structures](control_structures.md)
-[Back: Introduction](introduction.md)
+1. [Next: Chapter 2: Control Structures](control_structures.md)
+2. [Back: Introduction](introduction.md)
+3. [Back to Table of Contents](README.md)
